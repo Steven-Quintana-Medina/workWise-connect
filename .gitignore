@@ -1,0 +1,35 @@
+# Carpetas y archivos binarios generados por .NET
+bin/
+obj/
+
+# Carpetas y archivos de dependencias de NuGet
+*.dll
+*.pdb
+*.zip
+*.exe
+packages/
+
+# Archivos de configuración de usuario de Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Archivos temporales generados por .NET
+*.tmp
+*.log
+
+# Archivos de registro
+*.log
+
+# Otros archivos y carpetas generados automáticamente
+node_modules/
+*.suo
+*.user
+*.cache
+*.idea
+*.sln.docstates
+
+# Archivos de usuario y configuración específicos de .NET Core
+*.dotSettings
+*.config
